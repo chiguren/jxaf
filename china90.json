@@ -15,7 +15,7 @@
   {"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chiguren.github.io/jxaf/peizhin.json"},
   {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1},
-  {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7d4149b09b9144249497f06bd9827324"}
+  {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXN0b21Kc29uIjoie1wiZG9tYWluX2lkXCI6XCJiajI5XCIsXCJzaGFyZV9pZFwiOlwiUmlqcks4eFZ0a1RcIixcImNyZWF0b3JcIjpcImE2NDUyMjY1ZDY3MzRlYmNhODUyNjEzNTBmMDk4ZDZkXCJ9IiwiY3VzdG9tVHlwZSI6InNoYXJlX2xpbmsiLCJleHAiOjE2NDE2NDE4ODQsImlhdCI6MTY0MTYzNDYyNH0.KgqUN8a7A_ZmPOSK5vHWxebhdFXTlpsSnVuIYd8nzBZShk6xkwCyNQdnvvr3rxI6N0AuxzEJir7UvG92kpzQFr_PAe3YztAZAXgdz1po2NHNLp0B9ZZg9SSeKMeM4uBMlhb9CzupX2pr7nBd5Zr00TiqRwSlVdgohW2PQwG_3mc"}
   ],
   "lives": [
     {
